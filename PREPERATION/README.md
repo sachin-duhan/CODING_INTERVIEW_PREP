@@ -24,7 +24,7 @@
 | Compilers            | Compilation lifecycle, AST, JIT compilation, Key optimizations (such as Tail call optimization)                                                                                                                                                                                                                                                                                                                                                         |
 | OOPS                 | Key design patterns (factory, abstract factory, visitor, singleton, strategy, command etc.), heavy practice on OOPS modelling                                                                                                                                                                                                                                                                                                                           |
 
-<br><br><br>
+## SOME MORE TOPICS
 
 | Category             | Topics                                                                                                                                                                                                                                                                              |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

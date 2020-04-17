@@ -92,7 +92,7 @@
    * Insert: `O(log(n))`
    * Remove: `O(log(n))`
 
-<img src="/images/BST.png?raw=true" alt="Binary Search Tree" width="400" height="500">
+<img src="./images/BST.png?raw=true" alt="Binary Search Tree" width="400" height="500">
 
 ### Trie
 * A trie, sometimes called a radix or prefix tree, is a kind of search tree that is used to store a dynamic set or associative
@@ -134,7 +134,7 @@ or equal to those of the children and the lowest key is in the root node
   * Insert: `O(log(n))`
   * Remove Max / Min: `O(log(n))`
 
-<img src="/images/heap.png?raw=true" alt="Max Heap" width="400" height="500">
+<img src="./images/heap.png?raw=true" alt="Max Heap" width="400" height="500">
 
 
 ### Hashing
@@ -162,7 +162,7 @@ or equal to those of the children and the lowest key is in the root node
  (u -> v), this does *not* imply that there exists an edge from node v to node u (v -> u)
 
 
-<img src="/images/graph.png?raw=true" alt="Graph" width="400" height="500">
+<img src="./images/graph.png?raw=true" alt="Graph" width="400" height="500">
 
 ## Algorithms
 
